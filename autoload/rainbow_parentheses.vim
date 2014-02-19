@@ -14,12 +14,12 @@ let s:pairs = [
 	\ ['darkmagenta', 'DarkOrchid3'],
 	\ ['brown',       'firebrick3'],
 	\ ['gray',        'RoyalBlue3'],
-	\ ['white',       'SeaGreen3'],
+	\ ['yellow',       'SeaGreen3'],
 	\ ['darkmagenta', 'DarkOrchid3'],
 	\ ['Darkblue',    'firebrick3'],
-	\ ['darkgreen',   'RoyalBlue3'],
+	\ ['darkred',   'RoyalBlue3'],
 	\ ['darkcyan',    'SeaGreen3'],
-	\ ['darkred',     'DarkOrchid3'],
+	\ ['darkgreen',     'DarkOrchid3'],
 	\ ['red',         'firebrick3'],
 	\ ]
 let s:pairs = exists('g:rbpt_colorpairs') ? g:rbpt_colorpairs : s:pairs
